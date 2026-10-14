@@ -3,7 +3,7 @@
 I'm a B.Tech Computer Science student who enjoys building projects, learning new technologies, and solving problems through code.
 
 - 🔭 **Currently working on:** MailPilot, a cloud-based email marketing platform.
-- 🌱 **Currently deepening my skills in:** Data Structures, Algorithms, and AWS.
+- 🌱 **Currently deepening my skills in:** Data Structures, Algorithms,RAG and LLMs.
 - 🛠️ **Tools I use:** JavaScript, Python, C++, React, Node.js, Express, PostgreSQL, Git, and GitHub.
 - 💡 **Interested in:** Web development, AI-powered applications, and building useful products.
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/abhay-narayan-singh-4b4b55303/) 
