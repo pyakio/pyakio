@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi I'm Abhay👋
 
+I'm a B.Tech Computer Science student who enjoys building projects, learning new technologies, and solving problems through code.
+
+- 🔭 **Currently working on:** MailPilot, a cloud-based email marketing platform.
+- 🌱 **Currently deepening my skills in:** Data Structures, Algorithms, and AWS.
+- 🛠️ **Tools I use:** JavaScript, Python, C++, React, Node.js, Express, PostgreSQL, Git, and GitHub.
+- 💡 **Interested in:** Web development, AI-powered applications, and building useful products.
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/abhay-narayan-singh-4b4b55303/) 
+- ⚡ **Fun fact:** I turn coffee into code and debugging into life lessons.
+
+I believe in learning by building and getting a little better every day.
 <!--
 **pyakio/pyakio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
